@@ -1,0 +1,11 @@
+.DS_Store
+Thumbs.db
+.env
+.env.*
+*.pem
+*.key
+node_modules/
+qa/
+references/
+private*/
+*.pdf
